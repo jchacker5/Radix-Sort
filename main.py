@@ -65,8 +65,8 @@ def enhanced_radix_sort(arr, technique='counting'):
         exp *= 10
 
 # Welcome message
-print("Welcome to the Radix Sort program!")
-print("This program will sort an array of integers. You can choose the sorting technique.")
+print("Welcome to the Radix Sort program created by Joseph Defendre.")
+print("This program will sort an array of integers you choose. You can also choose the sorting technique.")
 
 # Array creation
 try:
